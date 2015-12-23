@@ -4,7 +4,7 @@ It is a helper tool for who is developing Assembly Programs for 64-bit Linux
 If you get bored about using nasm , ld , execute commands everytime after you change your program , you will like it
 
 Examples
-./enasm.py AssemblyFileName.asm or
+./enasm.py AssemblyFileName.asm 
 
 ./enasm.py AssemblyFileName.asm arg1 arg2 arg3 arg4 ...
 
